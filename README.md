@@ -3,13 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aparna+Mishra!;" />
 </h1>
 <h3 align="center">Cybersecurity Student | Future Defender Against Cyber Threats ⚔️ | Learning the Art of Ethical Hacking</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+<img align="right" alt="Coding" width="400" <img align="left "src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparna12mishra&label=Profile%20views&color=0e75b6&style=flat" alt="aparna12mishra" /> </p>
 
  🔭 I’m currently working on **something cool😉**
 
  🌱 I’m currently learning **Ethical Hacking and Web development**
+![Aparna's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/AparnaMishra.png)
 
  📜View my badges on [https://www.credly.com/users/aparna-mishra.5b4ad21b](https://www.credly.com/users/aparna-mishra.5b4ad21b)
 
