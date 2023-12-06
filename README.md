@@ -9,14 +9,15 @@
 
  🔭 I’m currently working on **something cool😉**
 
- 🌱 I’m currently learning **Ethical Hacking**
+ 🌱 I’m currently learning **Ethical Hacking** on TryHackMe<br>
+ 
 ![Aparna's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/AparnaMishra.png)
 
- 📜View my badges on [https://www.credly.com/users/aparna-mishra.5b4ad21b](https://www.credly.com/users/aparna-mishra.5b4ad21b)
+ 📜View my badges on [Credly](https://www.credly.com/users/aparna-mishra.5b4ad21b)
+
+ 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aparna-mishra-112047243/)
 
  💬 Ask me about **Ethical Hacking**
-
- 📫 Reach me on **https://www.linkedin.com/in/aparna-mishra-112047243/**
 
  ⚡ Fun fact **Securing the digital frontier, one line of code at a time. 💻🔒**
 <br>
