@@ -9,7 +9,7 @@
 
  🔭 I’m currently working on **something cool😉**
 
- 🌱 I’m currently learning **Ethical Hacking and Web development**
+ 🌱 I’m currently learning **Ethical Hacking**
 ![Aparna's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/AparnaMishra.png)
 
  📜View my badges on [https://www.credly.com/users/aparna-mishra.5b4ad21b](https://www.credly.com/users/aparna-mishra.5b4ad21b)
